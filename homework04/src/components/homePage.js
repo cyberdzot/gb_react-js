@@ -1,7 +1,7 @@
 function HomePage() {
   return (
     <div>
-      <p>Это HomePage</p>
+      <h1>Главная страница</h1>
     </div>
   );
 }
