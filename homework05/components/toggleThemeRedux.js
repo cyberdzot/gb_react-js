@@ -3,7 +3,7 @@ import { Provider } from "react-redux";
 import ToggleTheme from "./toggleTheme";
 import storeTheme from "./storeTheme";
 
-function ToggleThemeReduxRedux() {
+function ToggleThemeRedux() {
   return (
     <Provider store={storeTheme}>
       <ToggleTheme />
@@ -11,4 +11,4 @@ function ToggleThemeReduxRedux() {
   );
 }
 
-export default ToggleThemeReduxRedux;
+export default ToggleThemeRedux;

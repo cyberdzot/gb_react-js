@@ -1,10 +1,10 @@
 import "./App.css";
-import ToggleThemeReduxRedux from "./components/toggleThemeRedux";
+import ToggleThemeRedux from "./components/toggleThemeRedux";
 
 function App() {
   return (
     <div>
-      <ToggleThemeReduxRedux />
+      <ToggleThemeRedux />
     </div>
   );
 }
